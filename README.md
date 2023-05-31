@@ -12,5 +12,6 @@ train set으로 전체 정보를 학습 후 feature가 더 적은 test에 맞추
 <br>
 <br>
 <br>
+
 109등/507명 상위 21%
 ![image](https://github.com/KUcarrot/Oil_Classification_Knowledge_Distillation/assets/111140189/a0b4ec72-ec03-4e1f-866e-a7ab58179725)
